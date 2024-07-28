@@ -32,7 +32,7 @@ int main() {
         case '/':
             if (num2 == 0)
             {
-                printf("We can't divide a number with 0");
+                printf("\nWe can't divide a number with 0");
             }
             else printf("\nThe division of 2 numbers = %d", num1/num2);
             break;
