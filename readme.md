@@ -1,1 +1,1 @@
-Some basic C code samples..
+Some basic C codes..
