@@ -15,8 +15,8 @@ int main() {
     pG1 = &g1;
     pG2 = &g2;
 
-    printf("\nAdress of Grade 1 is :%p\n", *pG1);
-    printf("\nAdress of Grade 2 is :%p\n", *pG2);
+    printf("\nAdress of Grade 1 is :%p\n", pG1);
+    printf("\nAdress of Grade 2 is :%p\n", pG2);
 
     return 0;
 }
