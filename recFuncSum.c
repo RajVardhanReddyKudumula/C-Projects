@@ -8,7 +8,7 @@ int sumOf(int num) {
         return 1;
     }
 
-    return num + sumOf(num-1);
+    return num + sumOf(num-1);  
     
 }
 
